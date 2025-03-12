@@ -1,0 +1,31 @@
+# Um Site de Gatos
+
+Este é um site dedicado aos amantes de gatos! O objetivo é compartilhar informações sobre gatos, desde raças até mitos e verdades sobre esses felinos adoráveis, além de promover a adoção responsável de gatos.
+
+## Funcionalidades
+
+- **Início**: Página principal com boas-vindas e um link para adotar gatos.
+- **Raças de Gatos**: Link para uma página externa sobre raças de gatos.
+- **Mitos e Verdades**: Esclarecimento de alguns mitos populares sobre gatos.
+- **Por que Adotar um Gato**: Informações sobre os benefícios de ter um gato como animal de estimação.
+- **Encontre o Gato Perfeito**: Link para procurar gatos para adoção.
+
+## Tecnologias
+
+- HTML
+- CSS
+- JavaScript (para funcionalidades adicionais como o painel ocultável)
+
+## Como Usar
+
+1. Clone este repositório em sua máquina local.
+2. Abra o arquivo `index.html` em seu navegador.
+3. Navegue pelas seções para aprender mais sobre gatos e como adotar um.
+
+## Contribuições
+
+Sinta-se à vontade para fazer um fork deste repositório e contribuir com melhorias!
+
+## Licença
+
+Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
