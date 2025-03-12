@@ -1,0 +1,32 @@
+# Ignorar arquivos de dependências
+node_modules/
+bower_components/
+
+# Ignorar arquivos de compilação
+dist/
+build/
+
+# Ignorar arquivos temporários de editores
+*.swp
+*.swo
+*.DS_Store
+*.idea/
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar arquivos de configuração local
+*.env
+
+# Ignorar pastas e arquivos específicos do sistema
+Thumbs.db
+
+MIT License
+
+Copyright (c) 2025 [Seu Nome ou Sua Empresa]
+
+Permissão é concedida, gratuitamente, a qualquer pessoa que obtenha uma cópia deste software e arquivos de documentação associados (o "Software"), para lidar no Software sem restrição, incluindo, sem limitação, os direitos de usar, copiar, modificar, mesclar, publicar, distribuir, sublicenciar e/ou vender cópias do Software, e para permitir que as pessoas a quem o Software é fornecido faça o mesmo, sujeito às seguintes condições:
+
+A permissão acima deverá ser incluída em todas as cópias ou partes substanciais do Software.
+
+O Software é fornecido "no estado em que se encontra", sem garantia de qualquer tipo, expressa ou implícita, incluindo, mas não se limitando às garantias de comercialização, adequação a um propósito específico e não infração. Em nenhum caso os autores ou detentores dos direitos autorais serão responsáveis por qualquer reclamação, dano ou outra responsabilidade, seja em uma ação de contrato, ato ilícito ou de outra forma, resultante de, ou de alguma forma relacionado ao Software ou ao uso ou outros negócios no Software.
